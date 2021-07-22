@@ -10,3 +10,5 @@ Commenting: Opened up VSCode using "code README.md"
 Had issues and did a whole new repository
 
 Done
+
+Updated: setup my git bash on my windows10 pc, officially able to code on Macbook Pro and Desktop. 
